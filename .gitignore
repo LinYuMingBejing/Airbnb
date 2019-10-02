@@ -1,0 +1,6 @@
+debug.log
+hotel/
+__pycache__/
+test/
+venv/
+node_modules/
